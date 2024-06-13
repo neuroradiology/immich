@@ -1,5 +1,6 @@
 {
   "account": "계정",
+  "account_settings": "계정 설정",
   "acknowledge": "승인",
   "action": "동작",
   "actions": "동작",
@@ -23,10 +24,13 @@
   "admin": {
     "authentication_settings": "인증 설정",
     "authentication_settings_description": "비밀번호, OAuth 및 기타 인증 설정 관리",
+    "background_task_job": "백그라운드 작업",
     "crontab_guru": "크론탭 Guru",
     "disable_login": "로그인 비활성화",
     "disabled": "비활성화",
     "duplicate_detection_job_description": "에셋에 대해 기계 학습을 실행하여 유사한 이미지를 감지합니다. 스마트 검색에 의존합니다",
+    "external_library_management": "외부 라이브러리 관리",
+    "face_detection": "얼굴 인식",
     "image_format_description": "WebP는 JPEG보다 작은 파일을 생성하지만 인코딩 속도가 느립니다.",
     "image_prefer_embedded_preview": "기본 미리보기 선호",
     "image_prefer_embedded_preview_setting_description": "이용 가능한 경우 RAW 사진의 내장 미리보기를 이미지 처리에 대한 입력으로 사용합니다. 이렇게 하면 일부 이미지에 대해 더 정확한 색상을 생성할 수 있지만 미리보기의 품질은 카메라에 의존하며 이미지는 더 많은 압축 아티팩트를 가질 수 있습니다.",
